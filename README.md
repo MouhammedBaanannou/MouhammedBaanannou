@@ -16,12 +16,6 @@ Fun Facts:
 
 
 
-
-
-## 🏆 Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 
